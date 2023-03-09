@@ -2,8 +2,13 @@
 
 Hey, good to see you here! This is my repo with some of my data projects that I've worked. 
 
+[Work in progress]
 
-[Work in progress]`
+## [Distance between Cities and Capital](https://github.com/felipemayer/data_portfolio/tree/main/distance_cities_capital).
 
-1. [Distance between Cities and Capital](https://github.com/felipemayer/data_portfolio/tree/main/distance_cities_capital).\
-A real project using **Python**, **Requests** and **Web Scraping**
+Given a csv of cities and their capital, determine the distance between them and export a new CSV to product and ops team.
+
+A real project in **Python** with: 
+- **Pandas**
+- **Requests**
+- **Web Scraping**.
