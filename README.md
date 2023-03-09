@@ -9,6 +9,6 @@ Hey, good to see you here! This is my repo with some of my data projects that I'
 Given a csv of cities and their capital, determine the distance between them and export a new CSV to product and ops team.
 
 A real project in **Python** with: 
-- **Pandas**
-- **Requests**
-- **Web Scraping**.
+- Data manipulation with **Pandas**
+- **Requests** to access url with information (distance)
+- **Web Scraping** to get the information (distance).
