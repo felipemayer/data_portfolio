@@ -13,6 +13,15 @@ A project in **Python** with:
 - **Selenium** to use a browser
 - **Web Scraping** to get the information.
 
+## [FIFA 23 Ultimate team Scrapping](https://github.com/felipemayer/data_projects/tree/main/players_fifa23).
+
+A script to scrap Fifa 23 players information. The data will be used to futher analysis.
+
+A project in **Python** with: 
+- Data manipulation with **Pandas**
+- **Selenium** to use a browser
+- **Web Scraping** to get the information.
+
 ## [Distance between Cities and Capital](https://github.com/felipemayer/data_portfolio/tree/main/distance_cities_capital).
 
 Given a csv of cities and their capital, determine the distance between them and export a new CSV to product and ops team.
